@@ -6,5 +6,5 @@
 
 # credits
 
-**fastfetch conf**: <https://github.com/LierB/fastfetch>
-**bg img**: <https://www.pixiv.net/en/artworks/111474344>
+- **fastfetch conf**: <https://github.com/LierB/fastfetch>
+- **bg img**: <https://www.pixiv.net/en/artworks/111474344>
