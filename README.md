@@ -1,3 +1,5 @@
+> im missing some crucial configs in for this dotfiles. im trying to recover them. meanwhile, in this state, this dotfiles are unusable.
+
 # overview
 
 <p align="center">
